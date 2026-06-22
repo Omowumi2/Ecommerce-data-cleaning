@@ -18,3 +18,8 @@ Microsoft Excel (Analysis Toolpak)
 
 ## Dataset
 14 columns: OrderID, Date, CustomerID, Product, Quantity, UnitPrice, ShippingAddress, PaymentMethod, OrderStatus, TrackingNumber, ItemsInCart, CouponCode, ReferralSource, TotalPrice
+
+## Related Projects
+- Project 2: Ecommerce-exploratory-data-analysis
+- Project 3: SQL Analysis *(coming soon)*
+- Project 4: Data Visualization *(coming soon)*
