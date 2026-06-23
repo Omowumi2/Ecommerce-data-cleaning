@@ -21,5 +21,5 @@ Microsoft Excel (Analysis Toolpak)
 
 ## Related Projects
 - Project 2: Ecommerce-exploratory-data-analysis (https://github.com/Omowumi-A/Ecommerce-exploratory-data-analysis)
-- Project 3: SQL Analysis *(coming soon)*
+- Project 3: SQL Analysis (https://github.com/Omowumi-A/Ecommerce-sql-analysis)
 - Project 4: Data Visualization *(coming soon)*
